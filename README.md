@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Seb
-- 👀 I’m interested in coding and video games.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in coding and mixed martial arts.
+- 🌱 I’m currently learning python and C++
 - 📫 How to reach me discord: Seb.06
 
 <!---
